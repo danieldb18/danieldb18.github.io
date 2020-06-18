@@ -1,0 +1,14 @@
+## How to employ linear regression from sklearn
+
+Linear regressions are a model of the form:
+
+$$y = \beta_0 + \beta_1 x1 $$
+
+where $x1_n1,...., x_n$ are different features
+
+
+```python
+from sklearn.linear_model import linear regression
+```
+
+then call the fit and predict methods
